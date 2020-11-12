@@ -1,0 +1,12 @@
+{
+   "type": "service_account",
+   "project_id": "bank-statement-api-b2ee6",
+   "private_key_id": "18e2d6b0bfa0775a0f2160ce772613af36dc5287",
+   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2NmcghcnXYvRc\nMxfohLBh2IaVOVkYjHi7mqlrEnO+eTqtp/TuiSeKodlth20e/8Dx9JzP2oAHvUHN\n56WMSCMksDDeM44C4+X4UV98Lp0rPBX7Us5pFZCJf62ZUDXvNq8VGwDBUvbpfsSN\nyHEgG1FGoVfCNxDW7TcP6p//0+PRwJJVO81ISg7zYzRuxdr26gYVVJO015xZU+Ni\ncah0H85omM5tckyKUvgoW8j2V4YKxcOk2vU6O/RWykGN5o2hCH/D/ZGsRNS4v0hj\nStNkGNIffA6lZoaFNuhTiPm7KSNhcE1L8Loz+Qb4P3e7meFhOyL+ck9aF8mGa5wg\nvVIb9r8jAgMBAAECggEAEmzP4s8EiP4dnZEhEscQGuTNPxuscboKn1XVWdlk0Nbr\nYxH/x3sg/3i8RsIR+7d66DyG+tGqbp3poIuTButoelZCqsVlz88BuylnUWRZSjzq\nMB7AdonSssSxZjZhLc5GyAiR+/qKszO5ZmjlX4zDnDPGbwIodsNH9RkRksn3WIdH\nOb6CV/uAcr6LXkYZ54zceWsWm9erAL8w1bpltZtsbWZxC5WdxEmJlYSWVz6n0EhK\nYCePD+mrpR9lVL4A/O0+e8QJfUY6LDovmJ71BC4+A7Voi8gS7JfUnCW5ZfQI802r\nmUjsK65dQvvtPddJsmiA5VAhXm9tBPHZjZ4JKY/pwQKBgQD/WVkWRxyw1Oi0jJgi\n8X17maLUUGGTJk8rGzfz4dNjqdYsqKDcUTbDya9JHdPj807vQ6YG04LQucmb8WRD\nnDs4fqfyGcWZQEmkLCp0Uk2+gpUfHYdRTbsyzjoxUsu20yPwQcwoyOxMfCOptkoG\nrTiLelUVtuzdODIwBs6ZQIAqQwKBgQC2rVKfRFJlpHJ1zuJYWTifGcjY5At2UAWf\n3gcBj4MTrieN82FSLDwURCrJK/RuGSjtKbK9hCtieNfp3W7KnsV/ehUty5pVS93p\nBcZW1gXdG6s+IplgYQ71TKnZ15onZTX2P1Dlwy6vsZCmvkBN6LtshzQbNr3ae56T\nGXI6Ayv5oQKBgQDwMkvq+Nm0PZLow5gYxrETI2JX9YTTtqWiFuh7MWJ3zbr6J2Wp\n2Xt6kK2iSbyYILePukLjCPN1BE7xshBuyPesHPg+dJ+7mQ2ssR7+bK1VF+DOdChm\nAoilMfjrjMa0I8kap8o0U0x0ZhHmAuN/hFI8YcbHtlr5fXM4Wi7dWh81oQKBgQCI\nmf0xqdZvuVP6MnVhmX5UwuRFA+pqU5aRIGdezGE5Iz7i0D9TQk6+3OadvmeuuNO4\n3TiSrTYAEdtrPzFtBOMs2y7hKuJCrFPJv468Opjx6ZHZCehlgM69sdFFXAsjMHT0\nqg4lchoEOaSwe438dG9KzaOyQfIgYdaHqzyWku6cYQKBgGy1gFM031RquVM1FB8x\nU05/IjLngZHD/Sjhnz6nEBJ187oLYBz7+KfkfQcYH7PWkUNRZJe+jY5kiUpjTaLT\nQQxmvUUh7PjVL9GZJAcTVg40iNsaEOIxtDGMpPOP8cc951SXARtXoEOUbFGJDLQr\nrxaOhAK2HEL/9bexFhMt1q3m\n-----END PRIVATE KEY-----\n",
+   "client_email": "firebase-adminsdk-fpt4t@bank-statement-api-b2ee6.iam.gserviceaccount.com",
+   "client_id": "102512564765845444743",
+   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+   "token_uri": "https://oauth2.googleapis.com/token",
+   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fpt4t%40bank-statement-api-b2ee6.iam.gserviceaccount.com"
+}
